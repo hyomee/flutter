@@ -1,2 +1,2 @@
 # flutter
-Flutter 학습
+Flutter 학습입니다. 하루에 하나씩...
